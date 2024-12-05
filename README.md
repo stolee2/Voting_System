@@ -17,21 +17,21 @@ This is a simple voting system built with PHP and MySQL.
 1. Clone the repository:
 
    ```bash
+   cd C:\xampp\htdocs
    git clone https://github.com/your-username/Voting-System.git
    ```
 
-2. Navigate to the project directory:
+2. Start XAMPP:
+ 
+   Start Apache
+   Start MySQL
 
-   ```bash
-   cd Voting-System
-   ```
 
 3. Set up the database:
-
+   - Go to http://localhost/phpmyadmin
    - Import the `voting.sql` file in http://localhost/phpmyadmin
 
 4. Run the project:
-   - Start Apache and MySQL in XAMPP/MAMP.
    - Open `http://localhost/Voting-System`
    - Open `http://localhost/Voting-System/results.php`
    - Open `http://localhost/Voting-System/active_voters.php`
