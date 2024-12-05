@@ -23,8 +23,8 @@ This is a simple voting system built with PHP and MySQL.
 
 2. Start XAMPP:
  
-   Start Apache
-   Start MySQL
+  - Start Apache
+  - Start MySQL
 
 
 3. Set up the database:
